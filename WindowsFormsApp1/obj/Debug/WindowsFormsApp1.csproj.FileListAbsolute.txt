@@ -1,0 +1,60 @@
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\accoremgd.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\acdbmgd.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\acmgd.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LinqToExcel.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\log4net.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Remotion.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Remotion.Interfaces.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AdUiPalettes.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AcDx.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AcDxPublishUi.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AdWindows.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AcMr.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AcWindows.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AdUIMgd.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AcTcMgd.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AcCui.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AcMNUParser.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LinqToExcel.xml
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\log4net.xml
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\en-US\acdbmgd.resources.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\en-US\AcDx.resources.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\en-US\AcDxPublishUi.resources.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\en-US\AcMr.resources.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\angel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LinqToExcel.dll
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\log4net.dll
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Remotion.Data.Linq.dll
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Remotion.dll
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Remotion.Interfaces.dll
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LinqToExcel.xml
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\log4net.xml
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BD.resources
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Areas.resources
+D:\PROGRAMAS\Proyecto de Atributos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
